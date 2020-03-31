@@ -1,7 +1,7 @@
 body{
     /* display: flex; */
     flex-direction: row;
-    background-image: url("../cooooooooooooool.jfif");
+    background-image: url("./cooooooooooooool.jfif");
     background-size: cover;
 }
 ol{
