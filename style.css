@@ -1,0 +1,38 @@
+body{
+    /* display: flex; */
+    flex-direction: row;
+    background-image: url("../cooooooooooooool.jfif");
+    background-size: cover;
+}
+ol{
+    margin-bottom: 10px;
+    color: rgb(0, 217, 255);
+}
+li{
+    background-color: rgba(187, 25, 19, 0.287);
+}
+div{
+    display: flex;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    color: papayawhip;
+    margin-left: 5px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: maroon;
+    box-shadow: 1.5px 1.5px black;
+}
+a:hover{
+    color: white;
+    background-color: black;
+}
+footer{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
